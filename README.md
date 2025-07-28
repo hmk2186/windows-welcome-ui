@@ -6,9 +6,7 @@ This project is a **front-end replica of the animated welcome screen of Windows 
 
 * Smooth entrance animation
 * Centered layout resembling Windows 11
-* Responsive and modern design
 * No JavaScript used – CSS-only animation
-* Great for front-end UI/UX practice
 
 ## 🛠️ Technologies Used
 
